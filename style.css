@@ -1,0 +1,147 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+/* ################################## */ /* ################################## */ 
+.header{
+    background-image: url(images/header-bg.png) ;
+    background-repeat: no-repeat;
+    background-position: center center ;
+    background-size: cover;
+    height: 500px;
+    padding-bottom: 200px;
+    
+}
+.main-div{
+    width: 80%;
+    margin: auto;
+    padding-top:80px; 
+    
+}
+.half-width{
+    width: 50%;
+    float: left; 
+}
+
+.extra{
+    padding-top: 70px;
+    
+}
+h1{
+    font-size: 50px;
+    margin-top: -30px;
+    color: #ff0066;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    padding-bottom: 20px;
+    color: gray;
+}
+
+img{
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    padding: 8px 29px;
+    border-radius: 5px;
+    background-color: #ff0066;
+}
+/* ################################## */ /* ################################## */ 
+
+
+
+/* ################################## */ /* ################################## */ 
+.Biography{
+    
+    padding-top: 50px;
+}
+
+.sub-div{
+   padding-left: 90px;
+   padding-top: 140px;
+   text-align: justify;
+}
+
+.Biography{
+    background-image: url(images/biography-bg.png) ;
+    background-repeat: no-repeat;
+    background-position: center center ;
+    background-size: cover;
+    height: 600px;
+    padding-bottom: 200px;
+}
+/* ################################## */ /* ################################## */ 
+.myword img{
+    width: 30%;
+    float: left;
+    margin-left: 20px;
+}
+.main-div .work{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+.myword{
+    background-image: url(images/latest-work-bg.png) ;
+    background-repeat: no-repeat;
+    background-position: center center ;
+    background-size: cover;
+    height: 600px;
+    padding-bottom: 150px;
+}
+/* ################################## */ /* ################################## */ 
+
+
+
+
+/* ################################## */ /* ################################## */ 
+.last-section{
+
+    padding-bottom: 150px;
+}
+.last-section .center{
+    text-align: center;
+   
+}
+.center h1{
+    color: black;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+.center h4{
+    margin-bottom: -20px;
+   
+}
+.color{
+    color: gray;
+    padding-bottom: 20px;
+}
+.para{
+    margin-bottom: -30px;
+
+}
+.last-div{
+    background-color: #ff0066;
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+    text-align: center;
+    padding: 15px 20px 55px;
+}
+.last-div .last-para{
+    margin-bottom: -30px;
+    color: white;
+}
+.last-div h3{
+    color: white;
+}
+.simple-footer{
+    text-align: center;
+}
